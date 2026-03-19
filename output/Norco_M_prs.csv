@@ -1,0 +1,15 @@
+Athlete Name,Team,Gender,Grade,3 Mile PR,5000m PR,800m PR,1600m PR,3200m PR,Scrape Status
+"=HYPERLINK(""https://www.athletic.net/athlete/29301927/track-and-field/"", ""Adan Navarrete"")",Norco,Male,9,25:43.8,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396941/track-and-field/"", ""Alexander Guerrero"")",Norco,Male,9,20:06.7,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23536539/track-and-field/"", ""Corbin Cook"")",Norco,Male,11,18:27.4,,2:29.01,5:16.99,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/21837159/track-and-field/"", ""Daniel Silva Jr."")",Norco,Male,11,16:44.9,18:26.5,2:19.33,4:58.36,10:53.30,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29476211/track-and-field/"", ""Diego Castro"")",Norco,Male,9,16:42.7,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23536540/track-and-field/"", ""Hayden Caywood"")",Norco,Male,10,16:30.2,19:14.8,2:15.90,4:57.93,10:45.74,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/21932913/track-and-field/"", ""Hudson Busch"")",Norco,Male,12,18:49.5,22:59.0,2:19.57,5:03.32,11:56.97,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29409886/track-and-field/"", ""Iker Hernandez"")",Norco,Male,,,,,,,Failed
+"=HYPERLINK(""https://www.athletic.net/athlete/29840657/track-and-field/"", ""Izaak Rendon"")",Norco,Male,10,19:58.1,,2:23.47,5:10.30,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/27745365/track-and-field/"", ""Jae''lon Cole"")",Norco,Male,10,21:59.3,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/21224710/track-and-field/"", ""James McCracken"")",Norco,Male,12,19:47.6,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26366529/track-and-field/"", ""Joshua Carlson"")",Norco,Male,10,20:29.0,24:01.0,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26466072/track-and-field/"", ""Logan Castillo"")",Norco,Male,11,21:07.2,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29949293/track-and-field/"", ""Malikai O Lloyd"")",Norco,Male,,,,,,,Failed

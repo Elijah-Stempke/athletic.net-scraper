@@ -1,0 +1,24 @@
+Athlete Name,Team,Gender,Grade,3 Mile PR,5000m PR,800m PR,1600m PR,3200m PR,Scrape Status
+"=HYPERLINK(""https://www.athletic.net/athlete/23709408/track-and-field/"", ""Aarin Kalghatgi"")",Irvine,Male,11,17:31.5,,2:30.31,5:11.06,11:12.68,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396019/track-and-field/"", ""Achintya Akula"")",Irvine,Male,9,17:38.3,,2:17.71,5:07.74,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/27441961/track-and-field/"", ""Advait Patwardhan"")",Irvine,Male,10,19:20.6,,2:44.92,5:28.55,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23709451/track-and-field/"", ""Ajay Sriram Sankar"")",Irvine,Male,11,19:36.9,,2:21.75,5:28.80,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396026/track-and-field/"", ""Akshar Narsina"")",Irvine,Male,9,17:02.3,,2:08.31,4:53.83,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396027/track-and-field/"", ""Ankit Narsina"")",Irvine,Male,9,17:06.0,,,4:53.62,10:27.27,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/27467396/track-and-field/"", ""Avaneesh Thakur"")",Irvine,Male,10,18:40.9,,2:34.34,6:03.60,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26511622/track-and-field/"", ""Calyb Choi"")",Irvine,Male,11,16:30.7,,2:27.21,4:56.45,10:24.06,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396024/track-and-field/"", ""Cameron Kinowski"")",Irvine,Male,9,20:03.9,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396032/track-and-field/"", ""David Sagers"")",Irvine,Male,9,18:51.5,,,5:26.63,11:21.31,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26511605/track-and-field/"", ""Enoch Huang"")",Irvine,Male,10,19:05.1,,2:38.08,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23709434/track-and-field/"", ""Eugene Lin"")",Irvine,Male,12,18:44.7,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396030/track-and-field/"", ""Gavin Rubino"")",Irvine,Male,9,21:58.8,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23709399/track-and-field/"", ""Henry Burch"")",Irvine,Male,11,16:57.0,,2:00.20,4:52.64,11:36.15,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/27512587/track-and-field/"", ""Ian Koenig"")",Irvine,Male,12,25:37.5,,3:02.31,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396036/track-and-field/"", ""Kai Williamson"")",Irvine,Male,9,19:34.8,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/21452336/track-and-field/"", ""Lennon Coffin"")",Irvine,Male,12,15:29.4,,1:58.59,4:27.63,10:36.49,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26511612/track-and-field/"", ""Logan Wu"")",Irvine,Male,10,17:17.3,,2:24.67,5:09.35,11:07.25,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26511606/track-and-field/"", ""Malhar Kalantre"")",Irvine,Male,,,,,,,Failed
+"=HYPERLINK(""https://www.athletic.net/athlete/29396034/track-and-field/"", ""Nicholas Soo"")",Irvine,Male,9,20:42.6,,2:26.37,5:20.66,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396035/track-and-field/"", ""Nolan Soo"")",Irvine,Male,9,21:02.4,,,6:20.93,11:53.71,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26511604/track-and-field/"", ""Tyler Hoang"")",Irvine,Male,10,20:28.6,,2:23.13,5:48.54,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29396021/track-and-field/"", ""Yusif Elbiali"")",Irvine,Male,9,19:08.2,,,5:39.79,,Success

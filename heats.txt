@@ -1,0 +1,31 @@
+620424
+1 Phadnis, Shreyan 9 Beckman
+2 Hastings, Tate 11 Harvard-West
+3 Iniguez, Diego 12 Santa Ana
+4 Cole, Logan 12 North Torran
+5 Hawley, Micah 11 Laguna Hills
+6 Steinman, Kevin 12 Corona del M
+7 Ponvanit, Yawin 10 Ayala
+8 Barajas, Nolan 12 Beckman
+9 Franco, Jacob 10 Beckman
+10 Perez, Ethan 11 Dana Hills
+11 Cajilig, Nathan 11 Marina
+12 Paz, Zachary 11 Ayala
+13 Escalante, Aaron 12 Harvard-Westlake
+14 Vann Nguyen, Maddox 11 Marina
+15 Stempke, Elijah 11 Cypress
+16 Mercado, Mateo 11 Beckman
+17 Medina, Elijah 10 Redlands East Valley
+18 Paz, Jack 10 Ayala
+19 Garma, Isaiah 12 Cypress
+20 Carlson, Cole 12 J Serra Catholic
+21 O'Leary, Zac 11 J Serra Catholic
+22 Tsai, Aaron 11 Ayala
+23 Ayala, Noah 11 Holy Innocents
+24 Evans, Landon 12 Pacifica (Garden Grove)
+25 Abemayor, Charles 12 Harvard-Westlake
+26 Reimer, Trenton 11 Mater Dei
+27 Reid, Ollie 10 Desert Oasis
+28 Razo, Robert 12 Ayala
+29 Boatman, Brandon 11 Beckman
+30 Bailey, Dylan 12 Shadow Ridge

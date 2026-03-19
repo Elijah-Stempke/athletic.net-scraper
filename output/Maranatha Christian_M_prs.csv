@@ -1,0 +1,8 @@
+Athlete Name,Team,Gender,Grade,3 Mile PR,5000m PR,800m PR,1600m PR,3200m PR,Scrape Status
+"=HYPERLINK(""https://www.athletic.net/athlete/29634951/track-and-field/"", ""Daniel Nesins"")",Maranatha Christian,Male,9,,22:21.7,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23571251/track-and-field/"", ""Jacob Jaffin"")",Maranatha Christian,Male,11,17:10.4,17:50.3,2:31.76,5:20.14,10:49.65,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26343843/track-and-field/"", ""Jeremiah Vogel"")",Maranatha Christian,Male,10,17:10.7,17:12.1,,5:11.75,10:50.97,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/24615359/track-and-field/"", ""Jerry Deng"")",Maranatha Christian,Male,12,,26:49.4,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29790189/track-and-field/"", ""Mingrui Li"")",Maranatha Christian,Male,,,,,,,Failed
+"=HYPERLINK(""https://www.athletic.net/athlete/29611533/track-and-field/"", ""Nathaniel Dorcas"")",Maranatha Christian,Male,10,22:36.4,22:30.0,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29729081/track-and-field/"", ""Yuri Li"")",Maranatha Christian,Male,9,25:31.0,24:48.6,,6:29.31,,Success

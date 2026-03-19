@@ -1,0 +1,14 @@
+Athlete Name,Team,Gender,Grade,3 Mile PR,5000m PR,800m PR,1600m PR,3200m PR,Scrape Status
+"=HYPERLINK(""https://www.athletic.net/athlete/21161127/track-and-field/"", ""Alex Sulzbach"")",Santa Margarita,Male,12,15:55.2,,2:05.68,4:40.60,10:09.32,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29482249/track-and-field/"", ""Chad Snyder"")",Santa Margarita,Male,9,16:09.7,17:24.5,2:09.52,4:51.36,11:41.59,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/21905667/track-and-field/"", ""Darin Spragno"")",Santa Margarita,Male,12,14:28.1,15:29.7,2:01.73,4:31.05,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23672627/track-and-field/"", ""Dorian Rogers"")",Santa Margarita,Male,11,18:54.7,,2:26.09,5:21.27,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29482295/track-and-field/"", ""Emmett Dahl"")",Santa Margarita,Male,9,22:22.3,,2:28.21,5:19.56,12:25.10,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/29482244/track-and-field/"", ""Grant Lueders"")",Santa Margarita,Male,9,19:58.7,,,,,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23558847/track-and-field/"", ""Leo Cummins"")",Santa Margarita,Male,11,15:16.7,16:33.7,1:55.94,4:28.34,10:20.53,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/21161008/track-and-field/"", ""Lucas Cottone"")",Santa Margarita,Male,12,15:17.9,15:57.8,2:08.40,4:43.93,10:14.85,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23681247/track-and-field/"", ""Marcus Chien"")",Santa Margarita,Male,,,,,,,Failed
+"=HYPERLINK(""https://www.athletic.net/athlete/19927537/track-and-field/"", ""Mason Thomas"")",Santa Margarita,Male,9,20:33.2,,2:54.71,6:07.01,12:33.05,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/27477532/track-and-field/"", ""Matthew (Matt) Ruiz"")",Santa Margarita,Male,12,15:38.5,16:40.3,2:05.79,4:37.46,10:18.24,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/23558806/track-and-field/"", ""Miles Baren"")",Santa Margarita,Male,11,15:45.8,17:11.3,2:06.10,4:30.88,10:01.24,Success
+"=HYPERLINK(""https://www.athletic.net/athlete/26344274/track-and-field/"", ""Patrick Stadel"")",Santa Margarita,Male,10,15:25.7,16:35.2,2:12.64,4:50.83,10:49.59,Success
